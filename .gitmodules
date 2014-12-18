@@ -4,3 +4,9 @@
 [submodule "bundle/sparkup"]
 	path = bundle/sparkup
 	url = git@github.com:rstacruz/sparkup.git
+[submodule "bundle/vim-rails"]
+	path = bundle/vim-rails
+	url = git@github.com:tpope/vim-rails.git
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = git@github.com:kien/ctrlp.vim.git
